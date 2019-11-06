@@ -1,1 +1,1 @@
-swiftc -typecheck Target.swift Empty.swift
+swiftc -typecheck Target.swift Empty.swift -v
